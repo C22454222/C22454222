@@ -15,7 +15,6 @@ A Computer Science student from Ireland 🍀.
 ![](https://img.shields.io/badge/Tools-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Microsoft_Office-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Microsoft_Copilot-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 <hr>
 
