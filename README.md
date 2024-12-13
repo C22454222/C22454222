@@ -1,5 +1,7 @@
 ### Hey, I'm Christopher! <img src="https://raw.githubusercontent.com/GonzoTheDev/ShaneWilson/main/wave.gif" width="20px">  
-A Computer Science student from Ireland 🍀.  
+A Computer Science student from Ireland 🍀. Below is the languages, technologies and tools I've used and learnt since I started studying Computer Science.
+
+Below that is my most notable projects, applications, assignments and lab work to date.
 
 <hr>  
 
