@@ -1,6 +1,6 @@
 ### Hey, I'm Christopher! 👋
 
-Final-year Computer Science student at TU Dublin 🍀, currently working as a software engineer at Alizé in Luxembourg. Previously interned at Eirgrid in IT Operations.
+Final-year Computer Science student at TU Dublin 🍀, just finished working as a software engineer at Alizé in Luxembourg recently. I previously interned at Eirgrid in IT Operations last year.
 
 Below are the languages, technologies, and tools I've picked up along the way, followed by my most notable projects.
 
@@ -42,10 +42,10 @@ Below are the languages, technologies, and tools I've picked up along the way, f
 <hr>
 
 ### Featured Projects 📌
-- **[NewsScope](https://github.com/C22454222/NewsScope)** — Bias-aware Android news aggregator. Flutter + FastAPI + Supabase, with three transformer models (political bias, general bias, sentiment) deployed on Hugging Face Spaces and LIME explainability for transparent predictions. Final-year project at TU Dublin.
-- **CalPAL** — Kotlin productivity app with scheduling, GPS, secure login, and Room DB.
-- **Music Visualizer** — 3D visualisation tool that synchronises with mp3 files.
-- **Library System** — Full-stack library website (HTML/CSS/PHP + RDBMS, Apache).
+- **[NewsScope](https://github.com/C22454222/NewsScope)** - Bias-aware Android news aggregator. Flutter + FastAPI + Supabase, with three transformer models (political bias, general bias, sentiment) deployed on Hugging Face Spaces and LIME explainability for transparent predictions. Final-year project at TU Dublin.
+- **CalPAL** - Kotlin productivity app with scheduling, GPS, secure login, and Room DB.
+- **Music Visualizer** - 3D visualisation tool that synchronises with mp3 files.
+- **Library System** - Full-stack library website (HTML/CSS/PHP + RDBMS, Apache).
 
 <hr>
 
