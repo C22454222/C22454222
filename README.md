@@ -1,6 +1,6 @@
 ### Hey, I'm Christopher! 👋
 
-Final-year Computer Science student at TU Dublin 🍀, just finished working as a software engineer at Alizé in Luxembourg recently. I previously interned at Eirgrid in IT Operations last year.
+Final-year Computer Science student at Technological University Dublin 🍀, just finished working as a software engineer at Alizé in Luxembourg recently. I previously interned at Eirgrid in Information Technology Operations last year.
 
 Below are the languages, technologies, and tools I've picked up along the way, followed by my most notable projects.
 
